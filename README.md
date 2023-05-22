@@ -2,7 +2,7 @@
  Repositório criado para armazenar e disponibilizar informações do que foi proposto em aula pelo professor Gustavo Guanabara no Curso de Git e GitHub, plataforma do Curso em Vídeo. Além disso, o histórico de aprendizagem servirá para fins de incremento de portfólio como Desenvolvedora Back-end.
 
 
-## Atualizações 2023
+## Atualizações 2023 👋🏽
 
 - O que Guanabara chama de *versão MASTER*, passou a ser nomeado "**versão MAIN**";
     - Mas você pode alterar pro nome desejado em *Configurações do repositório* (versão Desktop);
